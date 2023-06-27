@@ -13,6 +13,7 @@
     .map {
         margin-right: 0px;
     }
+    
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -28,6 +29,7 @@
     .banner_main {
         background-size: auto 64%;
         padding: 220px 0px 0px 0px;
+        background-color: white !important;
     }
     .text-bg h1 {
         font-size: 43px;
@@ -70,9 +72,23 @@
     }
     .banner_main {
         padding: 152px 0px 0px 0px;
-        background-color: #cacaca !important;
+        background-color: white !important;
         background: inherit;
         min-height: 919px;
+    }
+    #banner1 .carousel-control-prev {
+        color: black;
+        border: black solid 2px;
+    }
+    #banner1 .carousel-control-next {
+        color: black;
+        border: black solid 2px;
+    }
+    .carousel-caption {
+        color: black;
+    }
+    .transfot h3 {
+        color: black;
     }
     .about {
         margin-top: 90px;
@@ -124,7 +140,7 @@
 @media (min-width: 576px) and (max-width: 767px) {
     .banner_main {
         padding: 152px 0px 90px 0px;
-        background-color: #cacaca !important;
+        background-color: white !important;
         background: inherit;
     }
     .banner_slide {
@@ -135,6 +151,20 @@
     }
     .transfot {
         padding-top: 30px;
+    }
+    #banner1 .carousel-control-prev {
+        color: black;
+        border: black solid 2px;
+    }
+    #banner1 .carousel-control-next {
+        color: black;
+        border: black solid 2px;
+    }
+    .carousel-caption {
+        color: black;
+    }
+    .transfot h3 {
+        color: black;
     }
     .about {
         margin-top: 90px;
@@ -206,7 +236,7 @@
     }
     .banner_main {
         padding: 152px 0px 90px 0px;
-        background-color: #cacaca !important;
+        background-color: white !important;
         background: inherit;
     }
     .banner_slide {
@@ -218,6 +248,20 @@
     }
     .transfot {
         padding-top: 30px;
+    }
+    .transfot h3 {
+        color: black;
+    }
+    #banner1 .carousel-control-prev {
+        color: black;
+        border: black solid 2px;
+    }
+    #banner1 .carousel-control-next {
+        color: black;
+        border: black solid 2px;
+    }
+    .carousel-caption {
+        color: black;
     }
     .about {
         margin-top: 90px;
