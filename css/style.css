@@ -160,6 +160,13 @@ img {
      outline: 0;
 }
 
+#img-logo {
+     max-width: 50%;
+}
+#img-about {
+     max-width: 100%;
+}
+
 .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
@@ -271,7 +278,7 @@ button {
 }
 
 .sidepanel a:hover {
-     color: #0f98f8;
+     color: #ad403d;
 }
 
 .sidepanel .closebtn {
@@ -347,7 +354,7 @@ ul.conat_info li a:hover {
 }
 
 .text-bg h1 {
-     color: #0f98f8;
+     color: #ad403d;
      font-size: 60px;
      line-height: 70px;
      padding-bottom: 45px;
@@ -461,7 +468,7 @@ ul.conat_info li a:hover {
 
 .titlepage h2 {
      font-size: 50px;
-     color: #0f98f8;
+     color: #ad403d;
      line-height: 45px;
      font-weight: bold;
      padding: 0;
@@ -576,11 +583,11 @@ ul.conat_info li a:hover {
 }
 
 .service_box h4:hover {
-     color: #0f98f8;
+     color: #ad403d;
 }
 
 .blu_colo i {
-     background-color: #0f98f8
+     background-color: #ad403d
 }
 
 .yell_colo i {
@@ -683,7 +690,7 @@ ul.conat_info li a:hover {
 #veh .carousel-control-next:hover,
 #veh .carousel-control-prev:focus,
 #veh .carousel-control-next:focus {
-     background: #0f98f8;
+     background: #ad403d;
      color: #fff;
 }
 
@@ -711,7 +718,7 @@ ul.conat_info li a:hover {
 
 .testimonial {
      padding: 90px 0 90px 0;
-     background-color: #0f98f8;
+     background-color: #ad403d;
      border-radius: 50px;
 }
 
@@ -787,7 +794,7 @@ ul.conat_info li a:hover {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-     color: #0f98f8;
+     color: #ad403d;
 }
 
 #myCarousel a.carousel-control-prev {
@@ -877,7 +884,7 @@ ul.conat_info li a:hover {
 }
 
 .main_form .contactus {
-     border: #cce9fe solid 1px;
+     border: #ad403d solid 1px;
      border-radius: 10px;
      margin-bottom: 25px;
      width: 100%;
@@ -890,7 +897,7 @@ ul.conat_info li a:hover {
 }
 
 .main_form .contactusmess {
-     border: #cce9fe solid 1px;
+     border: #ad403d solid 1px;
      border-radius: 10px;
      padding: 0 15px;
      margin-bottom: 25px;
@@ -905,7 +912,7 @@ ul.conat_info li a:hover {
 }
 
 .send_btn {
-     background: #0f98f8;
+     background: #ad403d;
      font-weight: 500;
      font-size: 18px;
      width: 198px;
@@ -971,7 +978,7 @@ ul.location_icon li {
 
 ul.location_icon li a {
      font-size: 40px;
-     color: #0f98f8;
+     color: #ad403d;
      line-height: 40px;
      padding-right: 16px;
      float: left;
@@ -1022,7 +1029,7 @@ ul.location_icon li a:hover {
 .sub_btn {
      font-size: 16px;
      transition: ease-in all 0.5s;
-     background-color: #0f98f8;
+     background-color: #ad403d;
      color: #fff;
      padding: 10px 0px;
      max-width: 105px;
@@ -1039,7 +1046,7 @@ ul.location_icon li a:hover {
 }
 
 .copyright {
-     background-color: #0f98f8;
+     background-color: #ad403d;
      margin-top: 70px;
      padding: 20px 0;
 }
