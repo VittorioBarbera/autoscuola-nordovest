@@ -416,6 +416,10 @@ ul.conat_info li a:hover {
      font-size: 17px;
 }
 
+.ban_track1 {
+     margin-left: 170px;
+}
+
 .get_now:hover {
      background-color: #000;
 }
@@ -572,6 +576,7 @@ ul.conat_info li a:hover {
 .service_box i img {
      text-align: center;
      padding-top: 33%;
+     width: 5vw;
 }
 
 .service_box h4 {
@@ -587,11 +592,11 @@ ul.conat_info li a:hover {
 }
 
 .blu_colo i {
-     background-color: #ad403d
+     background-color: #325090
 }
 
 .yell_colo i {
-     background-color: #fed806
+     background-color: #325090
 }
 
 .yelldark_colo {
@@ -599,7 +604,7 @@ ul.conat_info li a:hover {
 }
 
 .yelldark_colo i {
-     background-color: #fe7506
+     background-color: #325090
 }
 
 .service .read_more {
